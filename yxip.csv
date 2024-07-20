@@ -1,4 +1,0 @@
-IP地址	端口	回源端口	TLS	数据中心	地区	城市	TCP延迟(ms)	速度(MB/s)
-8.219.161.129	8443	8443	TRUE	SIN	Asia Pacific	Singapore	67	4.5
-8.218.48.92	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	73	4.48
-47.243.90.180	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	57	4.48
