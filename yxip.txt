@@ -11,5 +11,5 @@ time.is#官方域名9
 www.sixyin.com:443#优选域名1
 www.6988tv.com:443#优选域名2
 www.huakai2018.com:443#优选域名3
-www.visa.com.sg:2087#新加坡占位
-cis.visa.com:2053#香港占位
+www.visa.com.sg:2087#SIN新加坡占位
+cis.visa.com:2053#HK香港占位
