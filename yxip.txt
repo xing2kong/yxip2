@@ -1,4 +1,5 @@
 cf.090227.xyz:443#自建节点
+www.wto.org:8443#官方域名1
 www.visa.com:8443#官方域名2
 cis.visa.com:2053#官方域名3
 africa.visa.com:2083#官方域名4
@@ -7,7 +8,6 @@ www.visaeurope.at:2096#官方域名6
 www.visa.com.mt:8443#官方域名7
 qa.visamiddleeast.com#官方域名8
 time.is#官方域名9
-www.wto.org:8443#官方域名1
 www.sixyin.com:443#优选域名1
 www.6988tv.com:443#优选域名2
 www.huakai2018.com:443#优选域名3
