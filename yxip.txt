@@ -1,4 +1,4 @@
-cf.090227.xyz:443#自建节点
+cf.090227.xyz:2087#自建节点
 www.wto.org:8443#官方域名1
 www.visa.com:8443#官方域名2
 cis.visa.com:2053#官方域名3
@@ -12,4 +12,7 @@ www.sixyin.com:443#优选域名1
 www.6988tv.com:443#优选域名2
 www.huakai2018.com:443#优选域名3
 www.visa.com.sg:2087#SIN新加坡占位
-cis.visa.com:2053#HK香港占位
+cf.090227.xyz:2087#HK香港占位
+104.19.57.63#HK1
+104.19.122.189#HK2
+104.18.58.171#HK3
