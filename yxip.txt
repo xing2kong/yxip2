@@ -7,6 +7,7 @@ time.is#官方域名5
 www.sixyin.com:443#优选域名1
 www.6988tv.com:443#优选域名2
 www.huakai2018.com:443#优选域名3
+yxip.now.cc:443#韩国优选1
 www.visa.com.sg:2087#SIN新加坡占位
 104.19.57.63#HK1
 104.19.122.189#HK2
