@@ -1,7 +1,7 @@
 cf.090227.xyz:2087#自建节点
 www.sixyin.com:443#优选域名1
 www.6988tv.com:443#优选域名2
-www.huakai2018.com:443#优选域名3
+www.92mili.com:443#优选域名3
 yxip.now.cc:443#优选域名4
 104.19.136.69#SJC1
 104.19.247.208#SJC2
