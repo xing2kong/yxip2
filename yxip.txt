@@ -1,7 +1,7 @@
 cf.090227.xyz:2087#自建节点
 www.sixyin.com:443#优选域名1
-www.6988tv.com:443#优选域名2
-www.92mili.com:443#优选域名3
+kr.wokaotianshi.eu.org:443#优选域名2
+bpb.yousef.isegaro.com:443#优选域名3
 yxip.now.cc:443#优选域名4
 86.38.214.221#SJC1
 104.129.167.192#SJC2
